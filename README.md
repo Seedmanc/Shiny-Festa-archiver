@@ -1,6 +1,8 @@
 # Shiny-Festa-archiver
 Extract and modify .bin archives used in the Shiny Festa PSP game
 
+![](http://cs411017.vk.me/v411017539/95e5/7XFb1MX38As.jpg)
+
 Just thought I would share a draft of an archive manager I created some 2 years ago for the Idolm@ster PSP game.  
   Basically it allows you to work with game .bin files as archives, currently supporting operations of extracting a file from any depth within the archive and replacing a file from the top-level only.
 
